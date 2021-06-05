@@ -1,4 +1,3 @@
-
 class calculator():
     def add(num1,num2):
         add = num1+num2
@@ -12,4 +11,3 @@ class calculator():
     def divide(num1,num2):
         divide = num1/num2
         return divide  
-
